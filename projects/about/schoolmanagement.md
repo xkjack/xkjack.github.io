@@ -4,6 +4,8 @@
 
 **Phiên bản hiện tại:** v1.0.0-Beta
 
+**Mô tả:** Ứng dụng Quản lý Học sinh được phát triển nhầm mục đích giúp nhà trường quản lý học sinh hiệu quả hơn.
+
 **Phiên bản nền tảng:** K12932
 
 **Ngôn ngữ lập trình:** NodeJS, ElectronJS, ReactJS, TypeScript, Vite
